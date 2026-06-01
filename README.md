@@ -1,2 +1,16 @@
-# online-store
-an online shopping store website. Basic and also when running server add /products so it takes you to that page.
+# Online Store
+
+A Django-based online shopping website.
+
+## Features
+- Product listing page
+- Accessible via /products route
+
+## Technologies Used
+- Python
+- Django
+
+## How to Run
+1. Clone the repository
+2. Run the Django server
+3. Visit /products in browser
